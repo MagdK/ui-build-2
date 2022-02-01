@@ -35,7 +35,11 @@ select {
 
   /* RESET OVER */
 
-html, body { height: 100%;}
+html, 
+body { 
+    height: 100%;
+}
+
 body {
     background-color: #4343f9;
     font-family: 'Montserrat', sans-serif;
